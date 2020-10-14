@@ -25,6 +25,7 @@ ul {
 
 .prices {
     font-size: 22pt;
+    font-family: monospace;
     padding-left: 10%;
     padding-top: 40pt;
     width: 100%;
